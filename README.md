@@ -44,4 +44,51 @@ Then run the notebooks in order (01 to 04).
 
 ## Project Structure
 
+```
+eu-crop-yield-analysis/
+├── data/
+│   ├── raw/
+│   │   └── FAOSTAT_data_en_1-8-2026.csv
+│   └── processed/
+│       ├── eu_stat_cleaned.csv
+│       └── eu_stat_joined.csv
+├── notebooks/
+│   ├── 01_data_loading_cleaning.ipynb
+│   ├── 02_yield_trends.ipynb
+│   ├── 03_yield_efficiency.ipynb
+│   └── 04_north_south_gap.ipynb
+├── figures/
+│   ├── grapes_yield_evolution.png
+│   ├── maize_corn_yield_evolution.png
+│   ├── sugar_beet_yield_evolution.png
+│   ├── wheat_yield_evolution.png
+│   ├── yield_vs_area_change_by_crop.png
+│   └── north_south_yield_gap.png
+├── README.md
+├── LICENSE
+└── requirements.txt
+```
+
+## Data Source
+
+FAO. 2026. *FAOSTAT Statistical Database*. Accessed 8 January 2026. https://www.fao.org/faostat/. Licence: CC BY-4.0.
+
+## Discussion: implications for sustainable biomass production
+
+The findings indicate that the EU's productivity gains are unevenly distributed across crops. Two crops (grapes and maize) show genuine convergence, which suggests that productivity-enhancing technology and practices have transferred southward effectively. Conversely, two crops (wheat and sugar beet) show persistent gaps that are likely climatic in origin and unlikely to close through technology alone. Therefore, a sustainable EU biomass strategy should differentiate by crop. It should invest in Southern productivity for crops where convergence is achievable, and rely on regional specialisation where it is not.
+
+## Tools and Acknowledgements
+
+AI assistance (Claude, Anthropic) was utilised for code review, optimisation suggestions, and visualisation refinement. The research design, methodology, and interpretation are my own work.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact
+
+[Alireza Hosseini]  
+LinkedIn: [https://www.linkedin.com/in/alirezahs/]
+Email: seyedalireza.hosseini@uni-hohenheim.de
+
 
