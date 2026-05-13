@@ -40,7 +40,7 @@ Python (Recommended Python version: 3.11+), Jupyter Notebook, PyCharm, pandas, N
 ## How to Reproduce
 
 ```bash
-git clone https://github.com/yourusername/eu-crop-yield-analysis.git
+git clone https://github.com/alirezahsni98/eu-crop-yield-analysis.git
 cd eu-crop-yield-analysis
 pip install -r requirements.txt
 jupyter lab
@@ -79,7 +79,7 @@ eu-crop-yield-analysis/
 
 FAO. 2026. *FAOSTAT Statistical Database*. Accessed 8 January 2026. https://www.fao.org/faostat/. Licence: CC BY-4.0.
 
-## Discussion: implications for sustainable biomass production
+## Discussion: Implications For Sustainable Biomass Production
 
 The findings indicate that the EU's productivity gains are unevenly distributed across crops. Two crops (grapes and maize) show genuine convergence, which suggests that productivity-enhancing technology and practices have transferred southward effectively. Conversely, two crops (wheat and sugar beet) show persistent gaps that are likely climatic in origin and unlikely to close through technology alone. Therefore, a sustainable EU biomass strategy should differentiate by crop. It should invest in Southern productivity for crops where convergence is achievable, and rely on regional specialisation where it is not.
 
