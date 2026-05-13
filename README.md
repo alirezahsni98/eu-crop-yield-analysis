@@ -35,7 +35,7 @@ Sustainable biomass production is essential for the EU Green Deal and the Europe
 
 ## Tools
 
-Python (Recommended Python version: 3.11+), Jupyter Notebook, PyCharm, pandas, NumPy, matplotlib, seaborn
+Python (Recommended Python version: 3.11+), Jupyter Notebook, pandas, NumPy, matplotlib, seaborn
 
 ## How to Reproduce
 
