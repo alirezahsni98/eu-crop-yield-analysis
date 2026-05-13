@@ -87,8 +87,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-[alirezahs]  
-LinkedIn: [https://www.linkedin.com/in/alirezahs/]
+Alireza Hossseini  
+LinkedIn: https://www.linkedin.com/in/alirezahs
 Email: seyedalireza.hosseini@uni-hohenheim.de
 
 
