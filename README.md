@@ -132,6 +132,14 @@ Pinke, Z., & Lövei, G. L. (2022). Climate change and modernization drive
 structural realignments in European grain production. *Scientific Reports*,
 *12*, 8056. https://doi.org/10.1038/s41598-022-10670-6
 
+## Limitations
+
+- only six countries and four crops
+- no fertilizer, irrigation, soil, climate, policy, or variety data
+- yield was calculated, not imported directly
+- Portugal sugar beet required special handling
+- North–South grouping is simplified
+
 ## Tools and Acknowledgements
 
 AI assistance tools, including ChatGPT and Claude, were used for code review, visualization refinement, and documentation support; the research design, implementation decisions, and interpretation remain my own.
