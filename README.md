@@ -35,7 +35,7 @@ Sustainable biomass production is essential for the EU Green Deal and the Europe
 
 ## Tools
 
-Python, pandas, Seaborn, Matplotlib, NumPy, Jupyter.
+Python (Recommended Python version: 3.11+), Jupyter Notebook, PyCharm, pandas, NumPy, matplotlib, seaborn
 
 ## How to Reproduce
 
@@ -134,7 +134,7 @@ structural realignments in European grain production. *Scientific Reports*,
 
 ## Tools and Acknowledgements
 
-AI assistance (Claude, Anthropic) was utilised for code review, optimisation suggestions, and visualisation refinement. The research design, methodology, and interpretation are my own work.
+AI assistance tools, including ChatGPT and Claude, were used for code review, visualization refinement, and documentation support; the research design, implementation decisions, and interpretation remain my own.
 
 ## License
 
@@ -142,7 +142,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-Alireza Hossseini  
+Alireza Hosseini  
 LinkedIn: https://www.linkedin.com/in/alirezahs
 Email: seyedalireza.hosseini@uni-hohenheim.de
 
