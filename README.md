@@ -101,7 +101,7 @@ Pleijel, H., Webber, H., Durand, J. L., Dentener, F., Ceglar, A.,
 Wang, X., Badeck, F., Lecerf, R., Wall, G. W., ... Zhu, C. (2020).
 *Analysis of climate change impacts on EU agriculture by 2050* (PESETA IV,
 Task 3). European Commission, Joint Research Centre.
-https://doi.org/10.2760/956097
+https://doi.org/10.2760/121115
 
 **On maize C4 physiology and temperature thresholds:**
 
@@ -130,7 +130,7 @@ adaptations of wine production. *Nature Reviews Earth and Environment*,
 
 Pinke, Z., & Lövei, G. L. (2022). Climate change and modernization drive
 structural realignments in European grain production. *Scientific Reports*,
-*12*, 8056. https://doi.org/10.1038/s41598-022-11198-9
+*12*, 8056. https://doi.org/10.1038/s41598-022-10670-6
 
 ## Tools and Acknowledgements
 
