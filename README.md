@@ -79,7 +79,7 @@ eu-crop-yield-analysis/
 
 FAO. 2026. *FAOSTAT Statistical Database*. Accessed 8 January 2026. https://www.fao.org/faostat/. Licence: CC BY-4.0.
 
-## Discussion: Implications For Sustainable Biomass Production
+## Discussion: Implications for sustainable biomass production
 
 The findings indicate that the EU's productivity gains are unevenly distributed across crops. Two crops (grapes and maize) show genuine convergence, which suggests that productivity-enhancing technology and practices have transferred southward effectively. Conversely, two crops (wheat and sugar beet) show persistent gaps that are likely climatic in origin and unlikely to close through technology alone. Therefore, a sustainable EU biomass strategy should differentiate by crop. It should invest in Southern productivity for crops where convergence is achievable, and rely on regional specialisation where it is not.
 
@@ -95,13 +95,11 @@ Moore, F. C., & Lobell, D. B. (2015). The fingerprint of climate trends
 on European crop yields. *Proceedings of the National Academy of Sciences*,
 *112*(9), 2670-2675. https://doi.org/10.1073/pnas.1409606112
 
-Toreti, A., Deryng, D., Tubiello, F. N., Müller, C., Kimball, B. A.,
-Moser, G., Boote, K., Asseng, S., Pugh, T. A. M., Vanuytrecht, E.,
-Pleijel, H., Webber, H., Durand, J. L., Dentener, F., Ceglar, A.,
-Wang, X., Badeck, F., Lecerf, R., Wall, G. W., ... Zhu, C. (2020).
-*Analysis of climate change impacts on EU agriculture by 2050* (PESETA IV,
-Task 3). European Commission, Joint Research Centre.
-https://doi.org/10.2760/121115
+Hristov, J., Toreti, A., Pérez Domínguez, I., Dentener, F., Fellmann, T.,
+Elleby, C., Ceglar, A., Fumagalli, D., Niemeyer, S., Cerrani, I.,
+Panarello, L., & Bratu, M. (2020). *Analysis of climate change impacts
+on EU agriculture by 2050* (EUR 30078 EN). Publications Office of the
+European Union. https://doi.org/10.2760/121115
 
 **On maize C4 physiology and temperature thresholds:**
 
@@ -128,17 +126,47 @@ adaptations of wine production. *Nature Reviews Earth and Environment*,
 
 **On EU grain production and technology-driven yield gains:**
 
-Pinke, Z., & Lövei, G. L. (2022). Climate change and modernization drive
-structural realignments in European grain production. *Scientific Reports*,
-*12*, 8056. https://doi.org/10.1038/s41598-022-10670-6
+Pinke, Z., Decsi, B., Jámbor, A., Kardos, M. K., Kern, Z., Kozma, Z.,
+& Ács, T. (2022). Climate change and modernization drive structural
+realignments in European grain production. *Scientific Reports*, *12*,
+7374. https://doi.org/10.1038/s41598-022-10670-6
+
 
 ## Limitations
 
-- only six countries and four crops
-- no fertilizer, irrigation, soil, climate, policy, or variety data
-- yield was calculated, not imported directly
-- Portugal sugar beet required special handling
-- North–South grouping is simplified
+While this project provides a data-driven assessment of crop yield trends and
+land-use efficiency across six EU countries, several limitations should be
+considered when interpreting the findings.
+
+Initially, the analysis is restricted to six countries and four crops.
+While these were selected to represent the major EU agricultural producers
+and economically significant crops, they do not capture the full diversity
+of the EU-27. Consequently, the findings should not be generalised beyond
+the scope of this study without further investigation.
+
+Secondly, the dataset does not include variables such as fertiliser
+application, irrigation infrastructure, soil quality, climate data, or
+cultivar information. While these factors are crucial for a comprehensive
+understanding of yield determinants, they were not available within the
+FAOSTAT extract used in this project. Therefore, the observed yield trends
+could be influenced by factors that this analysis does not account for.
+
+Additionally, the annual yield was computed as production divided by
+harvested area, rather than imported directly as a pre-calculated variable.
+While this approach is methodologically sound and consistent with standard
+agronomic definitions, it implies that any measurement error in either the
+production or area figures could propagate into the yield estimates.
+
+Furthermore, the North-South regional grouping is a simplification.
+Germany, France, and the Netherlands were grouped as Northern producers,
+while Italy, Spain, and Portugal were grouped as Southern producers.
+While this grouping reflects broad agro-climatic differences, it does not
+consider the considerable internal variability within each region.
+
+Lastly, Portugal's sugar beet data required special handling due to missing
+values from 2017 onward. While the missing values were addressed through
+interpolation during the cleaning phase, Portugal was excluded from the
+efficiency comparison for sugar beet to avoid misleading conclusions.
 
 ## Tools and Acknowledgements
 
@@ -152,6 +180,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 Alireza Hosseini  
 LinkedIn: https://www.linkedin.com/in/alirezahs
+
+
 Email: seyedalireza.hosseini@uni-hohenheim.de
 
 
