@@ -83,6 +83,55 @@ FAO. 2026. *FAOSTAT Statistical Database*. Accessed 8 January 2026. https://www.
 
 The findings indicate that the EU's productivity gains are unevenly distributed across crops. Two crops (grapes and maize) show genuine convergence, which suggests that productivity-enhancing technology and practices have transferred southward effectively. Conversely, two crops (wheat and sugar beet) show persistent gaps that are likely climatic in origin and unlikely to close through technology alone. Therefore, a sustainable EU biomass strategy should differentiate by crop. It should invest in Southern productivity for crops where convergence is achievable, and rely on regional specialisation where it is not.
 
+
+## References
+
+The following peer-reviewed sources and institutional reports informed
+the discussion and interpretation of findings in this project.
+
+**On EU crop yield trends and climate fingerprints:**
+
+Moore, F. C., & Lobell, D. B. (2015). The fingerprint of climate trends
+on European crop yields. *Proceedings of the National Academy of Sciences*,
+*112*(9), 2670-2675. https://doi.org/10.1073/pnas.1409606112
+
+Toreti, A., Deryng, D., Tubiello, F. N., Müller, C., Kimball, B. A.,
+Moser, G., Boote, K., Asseng, S., Pugh, T. A. M., Vanuytrecht, E.,
+Pleijel, H., Webber, H., Durand, J. L., Dentener, F., Ceglar, A.,
+Wang, X., Badeck, F., Lecerf, R., Wall, G. W., ... Zhu, C. (2020).
+*Analysis of climate change impacts on EU agriculture by 2050* (PESETA IV,
+Task 3). European Commission, Joint Research Centre.
+https://doi.org/10.2760/956097
+
+**On maize C4 physiology and temperature thresholds:**
+
+Crafts-Brandner, S. J., & Salvucci, M. E. (2002). Sensitivity of
+photosynthesis in a C4 plant, maize, to heat stress. *Plant Physiology*,
+*129*(4), 1773-1780. https://doi.org/10.1104/pp.002170
+
+Schlenker, W., & Roberts, M. J. (2009). Nonlinear temperature effects
+indicate severe damages to US crop yields under climate change.
+*Proceedings of the National Academy of Sciences*, *106*(37), 15594-15598.
+https://doi.org/10.1073/pnas.0906865106
+
+**On climate change impacts on European viticulture:**
+
+Fraga, H., García de Cortázar Atauri, I., Malheiro, A. C., & Santos,
+J. A. (2016). Modelling climate change impacts on viticultural yield,
+phenology and stress conditions in Europe. *Global Change Biology*,
+*22*(11), 3774-3788. https://doi.org/10.1111/gcb.13382
+
+van Leeuwen, C., Sgubin, G., Bois, B., Ollat, N., Schultz, H. R.,
+Zavaglia, V., & Quénol, H. (2024). Climate change impacts and
+adaptations of wine production. *Nature Reviews Earth and Environment*,
+*5*, 258-275. https://doi.org/10.1038/s43017-024-00521-5
+
+**On EU grain production and technology-driven yield gains:**
+
+Pinke, Z., & Lövei, G. L. (2022). Climate change and modernization drive
+structural realignments in European grain production. *Scientific Reports*,
+*12*, 8056. https://doi.org/10.1038/s41598-022-11198-9
+
 ## Tools and Acknowledgements
 
 AI assistance (Claude, Anthropic) was utilised for code review, optimisation suggestions, and visualisation refinement. The research design, methodology, and interpretation are my own work.
