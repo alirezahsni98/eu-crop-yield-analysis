@@ -18,8 +18,14 @@ Sustainable biomass production is essential for the EU Green Deal and the Europe
 
 - **Convergence in grapes and maize:** The Southern producers have closed the yield gap with the North. In maize, Spain has overtaken the Northern average since around 2015.
 - **Persistent divergence in sugar beet and wheat:** The Northern yields remain considerably higher, and the gap is structural rather than narrowing.
-- **Efficiency winners:** Germany and Spain achieved significantly higher sugar beet yields while reducing the harvested area. Italy demonstrated similar gains across multiple crops.
+  
+**Efficiency gains differ across crops:**
 
+- **Grapes:** Spain, Portugal, and Italy improved yields while simultaneously reducing harvested area.
+- **Maize:** Spain and Portugal increased yields while reducing harvested area. Italy and France also reduced their harvested area, but their yield improvements were relatively modest.
+- **Sugar beet:** All countries, except Portugal, achieved higher yields alongside reductions in harvested area. Portugal was excluded from this comparison due to missing values from 2017 onward.
+- **Wheat:** Italy and Portugal increased yields while reducing harvested area. Spain also recorded a substantial yield increase; however, the reduction in harvested area was minimal.
+  
 ## Methods
 
 - Data cleaning and interpolation of missing values within each country-crop-element group.
